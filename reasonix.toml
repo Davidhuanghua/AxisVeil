@@ -1,0 +1,5 @@
+[permissions]
+allow = []
+
+[sandbox]
+allow_write = ["/private/tmp/axisveil_probe", "/private/tmp/axisveil_probe2", "/private/tmp/axisveil_probe3", "/private/tmp/axisveil_diag", "/private/tmp/axisveil_probe4", "/private/tmp/axisveil_probe5", "/private/tmp/axisveil_probe6"]
